@@ -9,7 +9,7 @@ You can add new movies to the library, modify them, and remove and filter them.
 **First of all you need a Docker**
 
 Docker Installation
-1. >Link on Docker https://docs.docker.com/engine/install/
+1. Link on Docker https://docs.docker.com/engine/install/
 2. Run this script in your terminal *docker run --name movies -p 8000:8000 webbylabhub/movies*
 
 App Installation
